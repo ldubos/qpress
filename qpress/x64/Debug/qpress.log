@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\ludwig\documents\visual studio 2015\projects\qpress\qpress\includes\qpress.h(37): warning C4244: 'initialisation' : conversion de 'long double' en 'uint64_t', perte possible de données
+c:\users\ludwig\documents\visual studio 2015\projects\qpress\qpress\includes\qpress.h(37): warning C4244: 'initialisation' : conversion de 'long double' en 'const uint64_t', perte possible de données
+  Génération de code en cours...
+  Compilation en cours...
+  qpress.cpp
+c:\users\ludwig\documents\visual studio 2015\projects\qpress\qpress\includes\qpress.h(37): warning C4244: 'initialisation' : conversion de 'long double' en 'uint64_t', perte possible de données
+c:\users\ludwig\documents\visual studio 2015\projects\qpress\qpress\includes\qpress.h(37): warning C4244: 'initialisation' : conversion de 'long double' en 'const uint64_t', perte possible de données
+c:\users\ludwig\documents\visual studio 2015\projects\qpress\qpress\srcs\qpress.cpp(72): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\ludwig\documents\visual studio 2015\projects\qpress\qpress\srcs\qpress.cpp(110): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\ludwig\documents\visual studio 2015\projects\qpress\qpress\srcs\qpress.cpp(111): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  Génération de code en cours...
+  qpress.vcxproj -> C:\Users\Ludwig\documents\visual studio 2015\Projects\qpress\x64\Debug\qpress.exe
+  qpress.vcxproj -> C:\Users\Ludwig\documents\visual studio 2015\Projects\qpress\x64\Debug\qpress.pdb (Full PDB)
